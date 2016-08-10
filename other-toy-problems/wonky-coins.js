@@ -7,7 +7,6 @@
 //are left with if you take all non-zero coins and keep feeding them
 //back into the machine until you are left with only zero-value coins.
 //
-//Difficulty: 3/5
 
 //take the coin and divide it by 4, 3, and 2 rounding down
 //if any of the coins are equal to zero remove them
