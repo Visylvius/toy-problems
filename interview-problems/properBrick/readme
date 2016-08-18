@@ -1,0 +1,6 @@
+small bricks are equal to 1
+big bricks are equal to 5
+
+given the total amount, do you have enough small/big bricks to complete the project ahead of you?
+If you do have enough bricks return true from the function,
+else return false.
